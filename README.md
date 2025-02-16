@@ -16,3 +16,21 @@ die beeinflussen, **welche Videos viral gehen**.
 
 ## 📊 Datenquelle
 [YouTube Trending Video Dataset – Kaggle](https://www.kaggle.com/datasets/rsrishav/youtube-trending-video-dataset)
+
+## 📊 Visualisierungen
+Einige wichtige Diagramme aus der Analyse:
+
+### Verteilung der Views
+![Verteilung Views](visuals/verteilung_views.png)
+
+### Verteilung der Likes
+![Verteilung Likes](visuals/verteilung_likes.png)
+
+### Verteilung der Kommentare
+![Verteilung Kommentare](visuals/verteilung_kommentare.png)
+
+### Scatterplot: Views vs. Likes
+![Scatter Views Likes](visuals/scatter_views_likes.png)
+
+### Korrelationen Heatmap
+![Korrelationen Heatmap](visuals/korrelationen_heatmap.png)
